@@ -11,13 +11,13 @@
 ## Writing Samples
 
 ### How to
-[Creating a VPC cluster with Terraform](https://github.com/mltreible/tech-comm-portfolio-public/blob/main/HowTo.png)
+[Creating a VPC cluster with Terraform](https://github.com/mltreible/mt-portfolio/blob/main/HowTo.png)
 
 ### Overview page
-[Ingress in IBM Cloud](https://github.com/mltreible/tech-comm-portfolio-public/blob/main/Overview.png)
+[Ingress in IBM Cloud](https://github.com/mltreible/mt-portfolio/blob/main/Overview.png)
 
 ### Troubleshooting
-[Why does the Ingress status show...](https://github.com/mltreible/tech-comm-portfolio-public/blob/main/Troubleshooting.png)
+[Why does the Ingress status show...](https://github.com/mltreible/mt-portfolio/blob/main/Troubleshooting.png)
 
 ### Blog announcement
-[RHEL 8 is here](https://github.com/mltreible/tech-comm-portfolio-public/blob/main/AnnouncementBlog.md)
+[RHEL 8 is here](https://github.com/mltreible/mt-portfolio/blob/main/AnnouncementBlog.md)
