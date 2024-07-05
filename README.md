@@ -10,6 +10,8 @@
 
 ## Writing Samples
 
+These samples include whole documents or sections of larger documents. All of the included samples were written by me and are taken from publicly available, external documentation. 
+
 ### How to
 [Creating a VPC cluster with Terraform](https://github.com/mltreible/mt-portfolio/blob/main/HowTo.png)
 
