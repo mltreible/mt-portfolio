@@ -1,7 +1,5 @@
-# mt-portfolio
-Technical writing portfolio
-
-﻿# Marissa Treible
+# Marissa Treible
+**Technical writer at IBM**
 
 ## Contact
 https://www.linkedin.com/in/marissa-treible
