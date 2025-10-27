@@ -19,6 +19,8 @@ https://www.linkedin.com/in/marissa-treible
 
 [Setting up observability for Fleets](https://github.com/mltreible/mt-portfolio/blob/main/FleetsLogging.pdf)
 
+[Fleets pricing](https://github.com/mltreible/mt-portfolio/blob/main/FleetsPricing.pdf)
+
 ### Ingress in IBM Cloud
 [Ingress in IBM Cloud overview](https://github.com/mltreible/mt-portfolio/blob/main/4_IngressInIBMCloud.png)
 
