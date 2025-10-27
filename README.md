@@ -14,10 +14,10 @@ https://www.linkedin.com/in/marissa-treible
 
 ## Writing Samples
 
-### Red Hat OpenShift AI add-on
-[About the Red Hat OpenShift AI add-on](https://github.com/mltreible/mt-portfolio/blob/main/1_AboutOpenShiftAI.png)
+### Code Engine Fleets
+[Fleets Workloads](https://github.com/mltreible/mt-portfolio/blob/main/FleetsAbout.pdf)
 
-[Installing the Red Hat OpenShift AI add-on](https://github.com/mltreible/mt-portfolio/blob/main/2_InstallOpenShiftAI.png)
+[Setting up observability for Fleets](https://github.com/mltreible/mt-portfolio/blob/main/FleetsLogging.pdf)
 
 ### Ingress in IBM Cloud
 [Ingress in IBM Cloud overview](https://github.com/mltreible/mt-portfolio/blob/main/4_IngressInIBMCloud.png)
